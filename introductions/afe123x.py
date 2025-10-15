@@ -1,7 +1,6 @@
 import time
 
 def introduce():
-
     print("Initialiting self-destruct sequence...")
     time.sleep(1)
     print("██\t\t20% complete...")
@@ -23,6 +22,6 @@ def introduce():
     print("I also like exploring new places, retro gaming, and trying to get into photography.")
     time.sleep(0.25)
     print("Can't wait to meet y'all in person next semester! later :)")
-
+    print("How could I forget, I can't wait to share memes with y'all too :D")
 if __name__ == "__main__":
     introduce()

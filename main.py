@@ -12,6 +12,7 @@ if __name__ == "__main__":
     print("Welcome to micromouse! Let me introduce you to each other!")
     intro_dir = Path("introductions")
     for intro_file in intro_dir.glob("*.py"):
+        
         if intro_file.name == "__init__.py":
             continue
         module_name = intro_file.stem
