@@ -23,5 +23,6 @@ def introduce():
     time.sleep(0.25)
     print("Can't wait to meet y'all in person next semester! later :)")
     print("How could I forget, I can't wait to share memes with y'all too :D")
+    print("P.S: If anyone wants to play some retro games online, hit me up!")
 if __name__ == "__main__":
     introduce()
