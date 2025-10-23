@@ -27,7 +27,3 @@ if __name__ == "__main__":
         else:
             print(f"\n--- {module_name} does not have an introduce() function ---")
     print("\n--- End of introductions ---")
-    print("Atharv was here")
-
-
-    antoehunsatohensuthasnoethuns
