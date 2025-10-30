@@ -18,7 +18,6 @@ def introduce():
             Don't enter my brain with epilepsy, it's a disco
             Inevitably you enter the depths of my diss throw
             Chuck a face punch, oh, forgot you just misthrow
-            I bet your diet makes you diarrhea and piss mold
             """)
 
 
